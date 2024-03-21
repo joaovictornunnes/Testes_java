@@ -1,0 +1,31 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Vamos abrir sua conta!!! ");
+		
+		System.out.println("digite o numero da sua conta");
+		int numeroConta = sc.nextInt();
+		System.out.println("digite o numero seu nome");
+		String nome = sc.nextLine();
+		
+		System.out.println("Voce deseja realizar um deposito inicial? y-sim n-não");
+		String teste = sc.nextLine();
+		
+		if(teste == "y") {
+			
+		}
+
+
+		
+		sc.close();
+	}
+
+}

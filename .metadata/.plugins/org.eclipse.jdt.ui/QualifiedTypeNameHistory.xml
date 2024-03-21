@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dominio.Cachorro"/>
+    <fullyQualifiedTypeName name="dominio.clas"/>
+    <fullyQualifiedTypeName name="persistencia.Itens_alugadosDAO"/>
+    <fullyQualifiedTypeName name="entities.enums.WorkerLevel"/>
+    <fullyQualifiedTypeName name="entities.HourContract"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="entities.Comment"/>
+    <fullyQualifiedTypeName name="entities.Post"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.Client"/>
+    <fullyQualifiedTypeName name="entities.Order"/>
+    <fullyQualifiedTypeName name="entities.OrderItem"/>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,40 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import banco.Conta;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Vamos abrir sua conta!!! ");
+		
+		System.out.println("digite o numero da sua conta: ");
+		int numeroConta = sc.nextInt();
+		System.out.println("digite o numero seu nome: ");
+		String nome = sc.nextLine();
+		
+		System.out.println("Voce deseja realizar um deposito inicial? y-sim n-não");
+		String teste = sc.nextLine();
+		
+		if(teste == "y") {
+			System.out.println("digite o valor que deseja de positar na sua conta: ");
+			double valor = sc.nextDouble();
+			Conta conta = new Conta(numeroConta, nome, valor);
+		}else {
+			Conta conta = new Conta(numeroConta, nome);
+		}
+		
+		System.out.println("conta criada com sucesso");
+		
+		System.out.println("d da conta: " + ;
+
+		
+		sc.close();
+	}
+
+}

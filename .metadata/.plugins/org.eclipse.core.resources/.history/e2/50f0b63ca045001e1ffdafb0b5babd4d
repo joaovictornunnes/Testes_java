@@ -1,0 +1,12 @@
+package application;
+
+import java.util.locale;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		
+	}
+
+}

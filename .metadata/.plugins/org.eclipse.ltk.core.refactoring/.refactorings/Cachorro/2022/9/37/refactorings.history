@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;dominio.module-info.java&apos; to &apos;cachorro.java&apos;&#x0A;- Original project: &apos;Cachorro&apos;&#x0A;- Original element: &apos;dominio.module-info.java&apos;&#x0A;- Renamed element: &apos;dominio.cachorro.java&apos;" description="Rename compilation unit &apos;module-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;dominio{module-info.java" name="cachorro.java" references="false" stamp="1662326549263" version="1.0"/>
+</session>
